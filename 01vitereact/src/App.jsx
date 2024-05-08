@@ -5,7 +5,8 @@ function App() {
     // <h1>React Learning in ViteReact</h1>
     <div>
       <Chai/>
-      <h1>dfhind </h1>
+      <h1>Chai is good</h1>
+      <p>Chai is good</p>
     </div>
   )
 }
